@@ -1,0 +1,3 @@
+git init
+ This initializes you git repository
+
